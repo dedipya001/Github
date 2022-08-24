@@ -1,4 +1,4 @@
-1//because of you ma'am i've understood everything in singly linked list and here is the full code :
+
 #include <stdio.h>
 #include <stdlib.h>
 struct node {
